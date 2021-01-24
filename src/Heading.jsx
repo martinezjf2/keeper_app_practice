@@ -2,7 +2,11 @@ import React from "react";
 import ReactDOM from "react-dom";
 
 function Heading() {
-  return <h1>Hello World!</h1>;
+  return (
+    <heading>
+      <h1>Keeper</h1>
+    </heading>
+  );
 }
 
 export default Heading;
