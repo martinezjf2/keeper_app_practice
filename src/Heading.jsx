@@ -3,9 +3,9 @@ import ReactDOM from "react-dom";
 
 function Heading() {
   return (
-    <heading>
+    <header>
       <h1>Keeper</h1>
-    </heading>
+    </header>
   );
 }
 
